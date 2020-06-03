@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+	<flight>
+		<flightcode>MF8150</flightcode>
+		<company>xiamen air</company>
+		<leaveairport>北京大兴机场</leaveairport>
+		<arriveairport>杭州萧山机场</arriveairport>
+		<leavetime>13:40</leavetime>
+		<arrivetime>16:00</arrivetime>
+		<mode>738</mode>
+	</flight>
+	<flight>
+		<flightcode>MF8238</flightcode>
+		<company>xiamen air</company>
+		<leaveairport>银川河东机场</leaveairport>
+		<arriveairport>武汉天河机场</arriveairport>
+		<leavetime>19:15</leavetime>
+		<arrivetime>21:35</arrivetime>
+		<mode>738</mode>
+	</flight>
+	<flight>
+		<flightcode>MF8237</flightcode>
+		<company>xiamen air</company>
+		<leaveairport>武汉天河机场</leaveairport>
+		<arriveairport>银川河东机场</arriveairport>
+		<leavetime>15:45</leavetime>
+		<arrivetime>17:55</arrivetime>
+		<mode>738</mode>
+	</flight>
+	<!-- There are more flights -->
+</flights>

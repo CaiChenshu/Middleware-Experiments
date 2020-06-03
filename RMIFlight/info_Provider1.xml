@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- air china flights -->
+<flights>
+	<flight>
+		<flightcode>CA1231</flightcode>
+		<company>air china</company>
+		<leaveairport>北京首都机场</leaveairport>
+		<arriveairport>西安咸阳机场</arriveairport>
+		<leavetime>07:35</leavetime>
+		<arrivetime>09:45</arrivetime>
+		<mode>73U</mode>
+	</flight>
+	<flight>
+		<flightcode>CA1289</flightcode>
+		<company>air china</company>
+		<leaveairport>北京首都机场</leaveairport>
+		<arriveairport>西安咸阳机场</arriveairport>
+		<leavetime>08:45</leavetime>
+		<arrivetime>11:00</arrivetime>
+		<mode>738</mode>
+	</flight>
+	<flight>
+		<flightcode>CA8182</flightcode>
+		<company>air china</company>
+		<leaveairport>广州白云机场</leaveairport>
+		<arriveairport>北京大兴国际机场</arriveairport>
+		<leavetime>09:40</leavetime>
+		<arrivetime>12:35</arrivetime>
+		<mode>73K</mode>
+	</flight>
+	<flight>
+		<flightcode>CA1720</flightcode>
+		<company>air china</company>
+		<leaveairport>广州白云机场</leaveairport>
+		<arriveairport>西安咸阳机场</arriveairport>
+		<leavetime>10:35</leavetime>
+		<arrivetime>12:45</arrivetime>
+		<mode>320</mode>
+	</flight>
+	<!-- There are more flights -->
+</flights>

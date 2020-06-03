@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- china southern -->
+<flights>
+	<flight>
+		<flightcode>CZ6163</flightcode>
+		<company>china southern</company>
+		<leaveairport>北京大兴机场</leaveairport>
+		<arriveairport>杭州萧山机场</arriveairport>
+		<leavetime>17：40</leavetime>
+		<arrivetime>20:05</arrivetime>
+		<mode>A321</mode>
+	</flight>
+	<flight>
+		<flightcode>CZ6791</flightcode>
+		<company>china southern</company>
+		<leaveairport>海口美兰机场</leaveairport>
+		<arriveairport>杭州萧山机场</arriveairport>
+		<leavetime>22:25</leavetime>
+		<arrivetime>10:05</arrivetime>
+		<mode>A321</mode>
+	</flight>
+	<flight>
+		<flightcode>CZ3826</flightcode>
+		<company>china southern</company>
+		<leaveairport>重庆江北机场</leaveairport>
+		<arriveairport>长沙黄花机场</arriveairport>
+		<leavetime>20:35</leavetime>
+		<arrivetime>21:55</arrivetime>
+		<mode>B737</mode>
+	</flight>
+	<!-- There are more flights -->
+</flights>
